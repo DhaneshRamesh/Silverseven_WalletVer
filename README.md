@@ -79,11 +79,6 @@ Silverseven_WalletVer/
 - **Transaction Verification:** Adding smart contract interaction for deeper verification.
 - **Enhanced UI/UX:** Improved designs with better wallet management features.
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
