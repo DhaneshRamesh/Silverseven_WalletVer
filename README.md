@@ -73,23 +73,11 @@ Silverseven_WalletVer/
 
 ---
 
-## 🚀 Future Development
+## Future Development
 
 - **Blockchain Integration:** To connect with a custom-built blockchain.
 - **Transaction Verification:** Adding smart contract interaction for deeper verification.
 - **Enhanced UI/UX:** Improved designs with better wallet management features.
-
----
-
-##  Contributing
-
-Contributions are welcome! 🎉
-
-1. **Fork** the repository.
-2. **Create** your feature branch: `git checkout -b feature/YourFeature`.
-3. **Commit** your changes: `git commit -m 'Add new feature'`.
-4. **Push** to the branch: `git push origin feature/YourFeature`.
-5. **Open** a pull request.
 
 ---
 
