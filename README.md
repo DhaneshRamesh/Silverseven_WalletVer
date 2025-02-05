@@ -1,4 +1,4 @@
-# 🚀 Silverseven Wallet Verification
+# Silverseven Wallet Verification
 
 ## 📖 Overview
 
@@ -8,7 +8,7 @@ This project is built using **Node.js**, **HTML**, and **CSS** to ensure smooth 
 
 ---
 
-## ✨ Features
+## Features
 
 - **MetaMask Integration:** Connects effortlessly with MetaMask for wallet access.
 - **Secure Wallet Verification:** Authenticates wallet addresses to ensure safe transactions.
@@ -36,7 +36,7 @@ npm install
 
 ---
 
-## 🚀 Usage
+## Usage
 
 To start the server:
 
@@ -49,7 +49,7 @@ node server.js
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 Silverseven_WalletVer/
@@ -81,7 +81,7 @@ Silverseven_WalletVer/
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! 🎉
 
@@ -93,13 +93,13 @@ Contributions are welcome! 🎉
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## 📧 Contact
+## Contact
 
 For inquiries, contact **Dhanesh Ramesh** at [dhaneshrameshofficial@gmail.com].
 
