@@ -1,0 +1,47 @@
+/* Center Block Styling */
+.center-block {
+  display: block;
+  margin: auto;
+}
+
+/* Block Button Styling */
+.block-button {
+  background-color: #0095ff;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0.4) 0 1px 0 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: block;
+  font-family: -apple-system, system-ui, "Segoe UI", "Liberation Sans", sans-serif;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.5;
+  margin: 200px auto 0;
+  outline: none;
+  padding: 10px 1em;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+  white-space: nowrap;
+}
+h1 {
+  text-align: center;
+}
+
+/* Hover and Focus States */
+.block-button:hover,
+.block-button:focus {
+  background-color: #007acc;
+  box-shadow: 0 0 0 4px rgba(0, 149, 255, 0.15);
+}
+
+/* Active State */
+.block-button:active {
+  background-color: #0064bd;
+  box-shadow: none;
+}
